@@ -159,3 +159,4 @@ cython_debug/
 openalpr/openalpr_system_status.json
 openalpr/openalpr_system_status.json
 data/mongodbdata/*
+#
